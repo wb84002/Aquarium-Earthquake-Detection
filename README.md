@@ -1,4 +1,4 @@
-# 智能魚缸水位偵測系統（Visual Water Level Detector）
+# 智能魚缸水位偵測系統（Aquarium-Earthquake-Detection）
 
 使用 **OpenCV + Tkinter + Matplotlib** 建立的魚缸水位偵測系統，
 
